@@ -1,0 +1,5 @@
+python-telegram-bot==21.9
+phonenumbers
+aiohttp
+requests
+python-dotenv
